@@ -1,0 +1,47 @@
+.container-fluid {
+    background: url('img/backgroundMain.gif') no-repeat;
+    background-size: cover;
+}
+
+.bg-main {
+    background-color: #e9ebe8;
+}
+
+.bg-white {
+    background-color: #fff;
+}
+
+a,
+a:hover {
+    text-decoration: none;
+}
+
+.bg-navbar {
+    background: linear-gradient(#c24c38, #a31c12);
+}
+
+li:hover {
+    background: linear-gradient(#454545, #202020);
+}
+
+.bg-black {
+    background: linear-gradient(#454545, #202020);
+}
+
+.bg-red {
+    background: linear-gradient(#c24c38, #a31c12);
+}
+
+.wall {
+    height: 20px;
+    width: 2px;
+}
+
+.red-font {
+    color: red;
+}
+
+.carousel-item {
+    width: 100%;
+    height: 397px;
+}
